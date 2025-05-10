@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Project",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsimran2008/Namaste-React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "harsimranjeetsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsimran2008/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/harsimran2008/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 version",
+    "cover 99.5% of us"   
+  ]
+}
